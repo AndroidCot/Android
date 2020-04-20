@@ -1,4 +1,4 @@
->如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料，都可以加上[微信](https://github.com/AndroidCot/Android#%E5%BE%AE%E4%BF%A1)或[QQ群](https://github.com/AndroidCot/Android#qq%E7%BE%A4)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
+>如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料（大厂面试真题解析），都可以加上[微信](https://github.com/AndroidCot/Android#%E5%BE%AE%E4%BF%A1)或[QQ群](https://github.com/AndroidCot/Android#qq%E7%BE%A4)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
 
 # Android
 Android知识笔记目录：  
